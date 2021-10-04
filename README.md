@@ -9,7 +9,7 @@
 - I. M
 - Y. O
 - S. K
-Groep > SSD2C
+- Groep > SSD2C
 
 ## Copyright
 
