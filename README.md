@@ -1,4 +1,22 @@
-# pra-c2
-# Door Mehmed, Mohamed, Ilyas, Yasin, Semir (2C PRA / SSD2C)
-# Curio Software Developers © 2021
-# https://www.curio.nl/
+# Praktijk Blok C #2
+
+> 
+
+## Credits
+
+- M. M
+- M. El
+- I. M
+- Y. O
+- S. K
+Groep > SSD2C
+
+## Copyright
+
+All rights reserved 2021 Curio Software Development
+
+## Contact
+
+Website:
+
+- [Curio](https://www.curio.nl)
