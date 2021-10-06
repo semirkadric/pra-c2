@@ -4,7 +4,7 @@
 
 ## Credits
 
-- M. M
+- M. O
 - M. El
 - I. M
 - Y. O
